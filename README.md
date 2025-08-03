@@ -1,5 +1,3 @@
----
-
 # Python-Projects
 
 # Python Development Portfolio
